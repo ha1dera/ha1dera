@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="GNU/Linux" />
   </a>
 </p>
 
@@ -46,10 +45,10 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", "PHP", "HTML", "CSS", "Javascript", "Python" },
+    "ProgramingLanguages" : { "C++", "PHP", "HTML", "CSS", "Javascript", "Python" }, // تم حذف Java
     "Database" : { "Sqlite", "MySQL/PostgreSql (أتعلم)", "Firebase" },
     "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
+    "Platforms" : { "Windows" }, // تم حذف GNU/Linux
     "OtherSkills" : { "Git", "Bash", "Design (Figma, Photoshop)", "Markdown" }
   };
 }
