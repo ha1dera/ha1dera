@@ -8,13 +8,6 @@
 ## مرحباً بك في عالم HAIDERA 🚀
 > مبرمج شغوف بلغات C++، وتطوير الويب (HTML, CSS, PHP). أسعى دائماً لتعلم كل جديد في عالم البرمجة!
 
-<details>
-<p><strong> <summary>  استمع لما أبرمج عليه حالياً:   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=[HAIDERA]&style=flat&color=orange&label=عدد+المشاهدات)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[HAIDERA]&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=الزيارات&edge_flat=false)](https://github.com/[HAIDERA])
 [![Telegram badge](https://img.shields.io/badge/[HAIDERA]-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
@@ -45,10 +38,10 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", "PHP", "HTML", "CSS", "Javascript", "Python" }, // تم حذف Java
+    "ProgramingLanguages" : { "C++", "PHP", "HTML", "CSS", "Javascript", "Python" },
     "Database" : { "Sqlite", "MySQL/PostgreSql (أتعلم)", "Firebase" },
     "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "Windows" }, // تم حذف GNU/Linux
+    "Platforms" : { "Windows" }, 
     "OtherSkills" : { "Git", "Bash", "Design (Figma, Photoshop)", "Markdown" }
   };
 }
