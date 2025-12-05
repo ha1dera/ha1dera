@@ -18,18 +18,3 @@
 </p>
 
 ---
-
-### 💻 أدوات أخرى أستخدمها وأهتم بها:
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C++", "PHP", "HTML", "CSS", "Javascript", "Python" },
-    "Database" : { "Sqlite", "MySQL/PostgreSql (أتعلم)", "Firebase" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "Windows" }, 
-    "OtherSkills" : { "Git", "Bash", "Design (Figma, Photoshop)", "Markdown" }
-  };
-}
