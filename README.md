@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 <br>
 
-## مرحباً بك في عالم HAIDERA 🚀
+## WELCOME TO HAIDERA WORLD
 > مبرمج شغوف بلغات C++، وتطوير الويب (HTML, CSS, PHP). أسعى دائماً لتعلم كل جديد في عالم البرمجة!
 
 ## 🛠️ اللغات والأدوات الأساسية التي أستخدمها ⚙️
